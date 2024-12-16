@@ -176,7 +176,7 @@ li.edit-mode input[type="text"] {
   width: 224px;
 }
 
-ul li.edit-mode .task-label {
+li.edit-mode .task-label {
   display: none;
 }
 
